@@ -1,1 +1,1 @@
-# Steganography-usiing-cmd
+# Steganography-using-cmd
